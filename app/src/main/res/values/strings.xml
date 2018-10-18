@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="detail">Lihat Detail</string>
+    <string name="tgl">Tanggal rilis</string>
+    <string name="rate">Rating IMDB</string>
+    <string name="judul">Judul</string>
+    <string name="sinopsis">Sinopsis</string>
+</resources>
